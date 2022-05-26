@@ -1,2 +1,2 @@
 # E-Commerce-website-design
-Simple Ecommerce website design using only html and css as a project
+Ecommerce website design using Html, CSS, BootStrap, JavaScript, JDBC, Spring boot and Oracle Database
